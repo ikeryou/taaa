@@ -14,11 +14,11 @@ TAAA.js
 
 
 ### デモ ###
-* 実機デモ(スマホのみ)<br>
+実機デモ(スマホのみ)<br>
 http://ikeryou.jp/oui/taaa/example/<br>
 
-* 回り方<br>
-https://vine.co/v/e17zUJWwnvA
+回り方<br>
+<img src="http://ikeryou.jp/oui/taaa/t.gif" width="480" height="480">
 
 ### 使い方 ###
 ```javascript
