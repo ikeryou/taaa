@@ -24,4 +24,4 @@ var taaa = new TAAA();
 taaa.start(1, 0.1);
 ```
 ### 対応端末 ###
-* iOS8以上のiPhone
+* iOS7~
