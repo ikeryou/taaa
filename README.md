@@ -16,13 +16,12 @@ http://ikeryou.jp/oui/taaa/example/
 
 ### 使い方 ###
 ```javascript
-
+// build内のtaaa.min.jsを読み後
 var taaa = new TAAA();
 
 // 引数1 : 一番下に到達する回転数 1=自身が1周でサイトの一番下までスクロール default=1
 // 引数2 : スクロール時のイージング default=0.2
 taaa.start(1, 0.1);
-
 ```
 ### 対応端末 ###
 * iOS8以上のiPhone
