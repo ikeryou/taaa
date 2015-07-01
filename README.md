@@ -8,11 +8,15 @@ TAAA.js
 自分自身がその場で回転することでしか<br>
 webサイトをスクロールできないようになります
 
-これなら歩きスマホは難しいですね
+これなら歩きスマホは難しいですね<br>
+
 
 ### デモ ###
-※スマホのみ<br>
-http://ikeryou.jp/oui/taaa/example/
+* 実機デモ(スマホのみ)<br>
+http://ikeryou.jp/oui/taaa/example/<br>
+
+* 回り方<br>
+https://vine.co/v/e17zUJWwnvA
 
 ### 使い方 ###
 ```javascript
