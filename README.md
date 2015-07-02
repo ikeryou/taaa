@@ -29,5 +29,10 @@ var taaa = new TAAA();
 // 引数2 : スクロール時のイージング default=0.2
 taaa.start(1, 0.1);
 ```
+### bower ###
+```bash
+bower install taaa.js --save
+```
+
 ### 対応端末 ###
 * iOS7~
