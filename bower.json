@@ -1,0 +1,15 @@
+{
+	"name": "taaa.js",
+	"homepage": "https://github.com/ikeryou/taaa",
+	"description": "No Texting while walking Javascript",
+	"main": "build/taaa.min.js",
+	"keywords": [
+		"taaa",
+		"deviceorientation"
+	],
+	"license": "MIT",
+	"ignore": [
+		"example",
+		"src"
+	]
+}
